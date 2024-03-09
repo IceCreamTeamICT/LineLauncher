@@ -1,3 +1,5 @@
+ENGLISH VERSION | [简体中文版](https://github.com/IceCreamTeamICT/LineLauncher/blob/main/README.md)
+
 # Line Launcher
 
 The main warehouse of the Line launcher. For understanding, it can be referred to as Line Minecraft Launcher in unofficial settings. But when there is ***ambiguity***, please remember that the official name of the launcher is ***Line launcher***. Hereinafter referred to as *this launcher/launcher/Line/LMC/LLC*. This warehouse is only for a brief introduction to LMC and does not contain any code.
