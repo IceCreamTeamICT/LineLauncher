@@ -13,4 +13,4 @@ Line启动器（Line Launcher）是一款为Java版[Minecraft](https://minecraft
 C#版本使用和IceCreamTeamICT大部分项目相同的自己编写的自用许可证，而Python版本目前的仓库使用Apache2.0，后续会按照影宝本人意愿选择许可证。
 
 ## 网页
-该仓库有一个GitHub Pages，暂时作为LMC的官网。链接可能是<line.huangyu.win>或其他域名吧，还没弄好。
+该仓库有一个GitHub Pages，暂时作为LMC的官网。链接是<https://line.icecreamteam.win>。
