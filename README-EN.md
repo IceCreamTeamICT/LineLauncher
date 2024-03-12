@@ -13,4 +13,4 @@ Another version is developed by Python and the main developer is [YingBao](https
 The C# version uses the same self written license as most IceCreamTeamICT projects, while the current repository uses Apache 2.0. In the future, the license will be chosen according to the wishes of YingBao.
 
 ## Website
-This repository has a GitHub Pages, temporarily serving as the offical website of LMC. The link may be <line.huangyu.win> or other domain, it hasn't been finalized yet.
+This repository has a GitHub Pages, temporarily serving as the offical website of LMC. The link is <https://line.huangyu.win>.
