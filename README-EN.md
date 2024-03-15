@@ -1,6 +1,6 @@
 ENGLISH VERSION | [简体中文版](https://github.com/IceCreamTeamICT/LineLauncher/blob/main/README.md)
 
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![LOGO](/logo.png "LOGO")
 
 # Line Launcher
 
