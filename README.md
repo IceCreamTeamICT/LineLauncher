@@ -1,5 +1,7 @@
 简体中文版 | [ENGLISH VERSION](https://github.com/IceCreamTeamICT/LineLauncher/blob/main/README-EN.md)
 
+![LOGO](/logo.png "LOGO")
+
 # Line启动器
 
 Line启动器的主仓库。为了理解，可以在非官方场合下称为Line我的世界启动器。但是当产生***歧义***时请记住，启动器官方名称为***Line启动器***。下文简称*本启动器/启动器/Line/LMC/LLC*。本仓库仅用于简要介绍LMC，不包含任何代码。
