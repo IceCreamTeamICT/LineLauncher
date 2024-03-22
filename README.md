@@ -9,7 +9,10 @@ Line启动器的主仓库。为了理解，可以在非官方场合下称为Line
 ## 简介
 Line启动器（Line Launcher）是一款为Java版[Minecraft](https://minecraft.net)所打造的游戏启动器，能够进行微软登录、游戏的下载安装等功能。  
 它有两个版本，一个由C#开发，主开发者是[皇鱼](https://github.com/tmdakm)仅支持Windows平台。当然，如果您的系统不是Windows却可以运行WPF应用程序的话，欢迎自行尝试编译出特殊的版本，或与我们联系。  
-另一个版本是Python版本。由[影宝](https://github.com/iloveei)为主开发，理论上支持所有可以运行Python的计算机，使用PyQt开发UI。其有一个[代码仓库](https://github.com/IloveEi/Line-Minecraft-Launcher)，后续会移到IceCreamTeamICT的仓库中。
+另一个版本是Python版本。由[影宝](https://github.com/iloveei)为主开发，理论上支持所有可以运行Python3.8.9(向上兼容)的计算机，但是由于使用Windows api及cmd程序的缘故，暂时无法在其他平台使用。不过，后续或许会提供优化版以跨平台(虽然但是不是由他提供:
+![{P4ZT6TU2808FQOZ `LLL1C](https://github.com/IceCreamTeamICT/LineLauncher/assets/96684075/8e1f13af-1b96-4dec-baf8-66f3537d8560)
+
+使用PyQt开发UI。其有一个[代码仓库](https://github.com/IloveEi/Line-Minecraft-Launcher)，后续会移到IceCreamTeamICT的仓库中。
 
 ## 协议
 C#版本使用和IceCreamTeamICT大部分项目相同的自己编写的自用许可证，而Python版本目前的仓库使用Apache2.0，后续会按照影宝本人意愿选择许可证。
